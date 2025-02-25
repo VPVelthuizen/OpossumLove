@@ -29,7 +29,7 @@ name img {
 
 nav {
     justify-content: space-between;
-    width: 25%;
+    width: 35%;
     padding-right: 20px;
 }
 
@@ -48,4 +48,16 @@ nav ul li a {
     text-decoration: none;
     color: pink;
     font-size: 20px;
+}
+
+footer {
+    background-color: #7d35db;
+    color: pink;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
