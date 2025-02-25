@@ -50,6 +50,25 @@ nav ul li a {
     font-size: 20px;
 }
 
+main {
+    margin: 0px;
+    padding: 0px;
+    background-color: pink;
+}
+
+#about {
+    display:flex;
+    align-items: center;
+    padding: 20px;
+}
+
+#about img {
+    border-radius: 75%;
+    padding: 25px;
+    width: 200px;
+    height: 150px;
+}
+
 footer {
     background-color: #7d35db;
     color: pink;
