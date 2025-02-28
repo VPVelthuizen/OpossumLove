@@ -56,8 +56,8 @@ main {
     background-color: pink;
 }
 
-#about {
-    display:flex;
+#about, #signup {
+    display: flex;
     align-items: center;
     padding: 20px;
 }
