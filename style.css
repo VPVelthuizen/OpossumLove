@@ -57,7 +57,7 @@ main {
 }
 
 #about {
-    display:flex;
+    display: flex;
     align-items: center;
     padding: 20px;
 }
@@ -67,6 +67,23 @@ main {
     padding: 25px;
     width: 200px;
     height: 150px;
+}
+
+#signup {
+    padding: 20px;
+}
+
+#gallery {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+#gallery img {
+    height: 200px;
+    width: auto;
+    padding: 10px;
 }
 
 footer {
